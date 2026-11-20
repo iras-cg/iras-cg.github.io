@@ -1,5 +1,5 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+This is the  site for [Floetra](https://github.com/iras-cg).
 
 ::github{repo="saicaca/fuwari"}
 
